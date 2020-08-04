@@ -1,0 +1,1507 @@
+[
+    {
+        "CountryName": "USA",
+        "Total Casses": "3,159,514",
+        "New Casses": "+582",
+        "Total Deaths": "134,873 ",
+        "Total Recoverd": "1,393,256"
+    },
+    {
+        "CountryName": "Brazil",
+        "Total Casses": "1,716,196",
+        "New Casses": null,
+        "Total Deaths": "68,055 ",
+        "Total Recoverd": "1,152,467"
+    },
+    {
+        "CountryName": "India",
+        "Total Casses": "771,129",
+        "New Casses": "+2,077",
+        "Total Deaths": "21,174 ",
+        "Total Recoverd": "477,685"
+    },
+    {
+        "CountryName": "Russia",
+        "Total Casses": "707,301",
+        "New Casses": "+6,509",
+        "Total Deaths": "10,843 ",
+        "Total Recoverd": "481,316"
+    },
+    {
+        "CountryName": "Peru",
+        "Total Casses": "312,911",
+        "New Casses": null,
+        "Total Deaths": "11,133 ",
+        "Total Recoverd": "204,748"
+    },
+    {
+        "CountryName": "Chile",
+        "Total Casses": "303,083",
+        "New Casses": null,
+        "Total Deaths": "6,573 ",
+        "Total Recoverd": "271,703"
+    },
+    {
+        "CountryName": "Spain",
+        "Total Casses": "299,593",
+        "New Casses": null,
+        "Total Deaths": "28,396 ",
+        "Total Recoverd": "N/A"
+    },
+    {
+        "CountryName": "UK",
+        "Total Casses": "286,979",
+        "New Casses": null,
+        "Total Deaths": "44,517 ",
+        "Total Recoverd": "N/A"
+    },
+    {
+        "CountryName": "Mexico",
+        "Total Casses": "275,003",
+        "New Casses": "+6,995",
+        "Total Deaths": "32,796 ",
+        "Total Recoverd": "167,795"
+    },
+    {
+        "CountryName": "Iran",
+        "Total Casses": "248,379",
+        "New Casses": null,
+        "Total Deaths": "12,084 ",
+        "Total Recoverd": "209,463"
+    },
+    {
+        "CountryName": "Italy",
+        "Total Casses": "242,149",
+        "New Casses": null,
+        "Total Deaths": "34,914 ",
+        "Total Recoverd": "193,640"
+    },
+    {
+        "CountryName": "Pakistan",
+        "Total Casses": "240,848",
+        "New Casses": "+3,359",
+        "Total Deaths": "4,983 ",
+        "Total Recoverd": "145,311"
+    },
+    {
+        "CountryName": "South Africa",
+        "Total Casses": "224,665",
+        "New Casses": null,
+        "Total Deaths": "3,602 ",
+        "Total Recoverd": "106,842"
+    },
+    {
+        "CountryName": "Saudi Arabia",
+        "Total Casses": "220,144",
+        "New Casses": null,
+        "Total Deaths": "2,059 ",
+        "Total Recoverd": "158,050"
+    },
+    {
+        "CountryName": "Turkey",
+        "Total Casses": "208,938",
+        "New Casses": null,
+        "Total Deaths": "5,282 ",
+        "Total Recoverd": "187,511"
+    },
+    {
+        "CountryName": "Germany",
+        "Total Casses": "198,765",
+        "New Casses": null,
+        "Total Deaths": "9,115 ",
+        "Total Recoverd": "183,600"
+    },
+    {
+        "CountryName": "Bangladesh",
+        "Total Casses": "175,494",
+        "New Casses": "+3,360",
+        "Total Deaths": "2,238 ",
+        "Total Recoverd": "84,544"
+    },
+    {
+        "CountryName": "France",
+        "Total Casses": "169,473",
+        "New Casses": null,
+        "Total Deaths": "29,965 ",
+        "Total Recoverd": "77,985"
+    },
+    {
+        "CountryName": "Colombia",
+        "Total Casses": "128,638",
+        "New Casses": null,
+        "Total Deaths": "4,527 ",
+        "Total Recoverd": "53,634"
+    },
+    {
+        "CountryName": "Canada",
+        "Total Casses": "106,434",
+        "New Casses": null,
+        "Total Deaths": "8,737 ",
+        "Total Recoverd": "70,247"
+    },
+    {
+        "CountryName": "Qatar",
+        "Total Casses": "101,553",
+        "New Casses": null,
+        "Total Deaths": "138 ",
+        "Total Recoverd": "96,107"
+    },
+    {
+        "CountryName": "Argentina",
+        "Total Casses": "87,030",
+        "New Casses": null,
+        "Total Deaths": "1,694 ",
+        "Total Recoverd": "36,502"
+    },
+    {
+        "CountryName": "Egypt",
+        "Total Casses": "78,304",
+        "New Casses": null,
+        "Total Deaths": "3,564 ",
+        "Total Recoverd": "22,241"
+    },
+    {
+        "CountryName": "Sweden",
+        "Total Casses": "73,858",
+        "New Casses": null,
+        "Total Deaths": "5,482 ",
+        "Total Recoverd": "N/A"
+    },
+    {
+        "CountryName": "Indonesia",
+        "Total Casses": "70,736",
+        "New Casses": "+2,657",
+        "Total Deaths": "3,417 ",
+        "Total Recoverd": "32,651"
+    },
+    {
+        "CountryName": "Iraq",
+        "Total Casses": "67,442",
+        "New Casses": null,
+        "Total Deaths": "2,779 ",
+        "Total Recoverd": "37,879"
+    },
+    {
+        "CountryName": "Belarus",
+        "Total Casses": "64,224",
+        "New Casses": null,
+        "Total Deaths": "443 ",
+        "Total Recoverd": "52,854"
+    },
+    {
+        "CountryName": "Ecuador",
+        "Total Casses": "63,245",
+        "New Casses": null,
+        "Total Deaths": "4,873 ",
+        "Total Recoverd": "29,071"
+    },
+    {
+        "CountryName": "Belgium",
+        "Total Casses": "62,210",
+        "New Casses": "+87",
+        "Total Deaths": "9,778 ",
+        "Total Recoverd": "17,159"
+    },
+    {
+        "CountryName": "UAE",
+        "Total Casses": "53,045",
+        "New Casses": null,
+        "Total Deaths": "327 ",
+        "Total Recoverd": "42,282"
+    },
+    {
+        "CountryName": "Kazakhstan",
+        "Total Casses": "53,021",
+        "New Casses": "+1,962",
+        "Total Deaths": "264 ",
+        "Total Recoverd": "35,137"
+    },
+    {
+        "CountryName": "Kuwait",
+        "Total Casses": "52,007",
+        "New Casses": null,
+        "Total Deaths": "379 ",
+        "Total Recoverd": "42,108"
+    },
+    {
+        "CountryName": "Philippines",
+        "Total Casses": "51,754",
+        "New Casses": "+1,395",
+        "Total Deaths": "1,314 ",
+        "Total Recoverd": "12,813"
+    },
+    {
+        "CountryName": "Oman",
+        "Total Casses": "51,725",
+        "New Casses": "+1,518",
+        "Total Deaths": "236 ",
+        "Total Recoverd": "33,021"
+    },
+    {
+        "CountryName": "Ukraine",
+        "Total Casses": "51,224",
+        "New Casses": "+810",
+        "Total Deaths": "1,327 ",
+        "Total Recoverd": "23,784"
+    },
+    {
+        "CountryName": "Netherlands",
+        "Total Casses": "50,746",
+        "New Casses": null,
+        "Total Deaths": "6,135 ",
+        "Total Recoverd": "N/A"
+    },
+    {
+        "CountryName": "Singapore",
+        "Total Casses": "45,423",
+        "New Casses": "+125",
+        "Total Deaths": "26 ",
+        "Total Recoverd": "41,323"
+    },
+    {
+        "CountryName": "Portugal",
+        "Total Casses": "44,859",
+        "New Casses": null,
+        "Total Deaths": "1,631 ",
+        "Total Recoverd": "29,714"
+    },
+    {
+        "CountryName": "Bolivia",
+        "Total Casses": "42,984",
+        "New Casses": "+1,439",
+        "Total Deaths": "1,577 ",
+        "Total Recoverd": "12,883"
+    },
+    {
+        "CountryName": "Panama",
+        "Total Casses": "41,251",
+        "New Casses": null,
+        "Total Deaths": "819 ",
+        "Total Recoverd": "19,469"
+    },
+    {
+        "CountryName": "Dominican Republic",
+        "Total Casses": "39,588",
+        "New Casses": null,
+        "Total Deaths": "829 ",
+        "Total Recoverd": "20,056"
+    },
+    {
+        "CountryName": "Poland",
+        "Total Casses": "36,951",
+        "New Casses": "+262",
+        "Total Deaths": "1,551 ",
+        "Total Recoverd": "25,477"
+    },
+    {
+        "CountryName": "Israel",
+        "Total Casses": "33,947",
+        "New Casses": "+390",
+        "Total Deaths": "346 ",
+        "Total Recoverd": "18,392"
+    },
+    {
+        "CountryName": "Afghanistan",
+        "Total Casses": "33,908",
+        "New Casses": "+314",
+        "Total Deaths": "957 ",
+        "Total Recoverd": "20,847"
+    },
+    {
+        "CountryName": "Switzerland",
+        "Total Casses": "32,498",
+        "New Casses": null,
+        "Total Deaths": "1,966 ",
+        "Total Recoverd": "29,400"
+    },
+    {
+        "CountryName": "Bahrain",
+        "Total Casses": "30,931",
+        "New Casses": null,
+        "Total Deaths": "101 ",
+        "Total Recoverd": "26,073"
+    },
+    {
+        "CountryName": "Romania",
+        "Total Casses": "30,789",
+        "New Casses": "+614",
+        "Total Deaths": "1,834 ",
+        "Total Recoverd": "20,969"
+    },
+    {
+        "CountryName": "Armenia",
+        "Total Casses": "30,346",
+        "New Casses": "+526",
+        "Total Deaths": "535 ",
+        "Total Recoverd": "18,000"
+    },
+    {
+        "CountryName": "Nigeria",
+        "Total Casses": "30,249",
+        "New Casses": null,
+        "Total Deaths": "684 ",
+        "Total Recoverd": "12,373"
+    },
+    {
+        "CountryName": "Honduras",
+        "Total Casses": "25,978",
+        "New Casses": "+550",
+        "Total Deaths": "694 ",
+        "Total Recoverd": "2,721"
+    },
+    {
+        "CountryName": "Ireland",
+        "Total Casses": "25,542",
+        "New Casses": null,
+        "Total Deaths": "1,738 ",
+        "Total Recoverd": "23,364"
+    },
+    {
+        "CountryName": "Guatemala",
+        "Total Casses": "25,411",
+        "New Casses": null,
+        "Total Deaths": "1,053 ",
+        "Total Recoverd": "3,718"
+    },
+    {
+        "CountryName": "Ghana",
+        "Total Casses": "22,822",
+        "New Casses": null,
+        "Total Deaths": "129 ",
+        "Total Recoverd": "17,564"
+    },
+    {
+        "CountryName": "Azerbaijan",
+        "Total Casses": "21,916",
+        "New Casses": null,
+        "Total Deaths": "274 ",
+        "Total Recoverd": "13,100"
+    },
+    {
+        "CountryName": "Japan",
+        "Total Casses": "20,174",
+        "New Casses": null,
+        "Total Deaths": "980 ",
+        "Total Recoverd": "17,331"
+    },
+    {
+        "CountryName": "Austria",
+        "Total Casses": "18,513",
+        "New Casses": null,
+        "Total Deaths": "706 ",
+        "Total Recoverd": "16,721"
+    },
+    {
+        "CountryName": "Moldova",
+        "Total Casses": "18,471",
+        "New Casses": null,
+        "Total Deaths": "614 ",
+        "Total Recoverd": "11,549"
+    },
+    {
+        "CountryName": "Algeria",
+        "Total Casses": "17,348",
+        "New Casses": null,
+        "Total Deaths": "978 ",
+        "Total Recoverd": "12,329"
+    },
+    {
+        "CountryName": "Serbia",
+        "Total Casses": "17,076",
+        "New Casses": null,
+        "Total Deaths": "341 ",
+        "Total Recoverd": "13,366"
+    },
+    {
+        "CountryName": "Nepal",
+        "Total Casses": "16,423",
+        "New Casses": null,
+        "Total Deaths": "35 ",
+        "Total Recoverd": "7,752"
+    },
+    {
+        "CountryName": "Morocco",
+        "Total Casses": "14,949",
+        "New Casses": "+178",
+        "Total Deaths": "242 ",
+        "Total Recoverd": "11,372"
+    },
+    {
+        "CountryName": "Cameroon",
+        "Total Casses": "14,916",
+        "New Casses": null,
+        "Total Deaths": "359 ",
+        "Total Recoverd": "11,525"
+    },
+    {
+        "CountryName": "S. Korea",
+        "Total Casses": "13,293",
+        "New Casses": "+50",
+        "Total Deaths": "287 ",
+        "Total Recoverd": "12,019"
+    },
+    {
+        "CountryName": "Denmark",
+        "Total Casses": "12,900",
+        "New Casses": null,
+        "Total Deaths": "609 ",
+        "Total Recoverd": "12,001"
+    },
+    {
+        "CountryName": "Czechia",
+        "Total Casses": "12,814",
+        "New Casses": null,
+        "Total Deaths": "351 ",
+        "Total Recoverd": "8,010"
+    },
+    {
+        "CountryName": "Ivory Coast",
+        "Total Casses": "11,504",
+        "New Casses": null,
+        "Total Deaths": "78 ",
+        "Total Recoverd": "5,571"
+    },
+    {
+        "CountryName": "Uzbekistan",
+        "Total Casses": "11,259",
+        "New Casses": "+167",
+        "Total Deaths": "47 ",
+        "Total Recoverd": "7,060"
+    },
+    {
+        "CountryName": "Sudan",
+        "Total Casses": "10,084",
+        "New Casses": null,
+        "Total Deaths": "636 ",
+        "Total Recoverd": "5,074"
+    },
+    {
+        "CountryName": "Australia",
+        "Total Casses": "9,059",
+        "New Casses": "+173",
+        "Total Deaths": "106 ",
+        "Total Recoverd": "7,573"
+    },
+    {
+        "CountryName": "Norway",
+        "Total Casses": "8,954",
+        "New Casses": "+4",
+        "Total Deaths": "251 ",
+        "Total Recoverd": "8,138"
+    },
+    {
+        "CountryName": "Kyrgyzstan",
+        "Total Casses": "8,847",
+        "New Casses": "+361",
+        "Total Deaths": "116 ",
+        "Total Recoverd": "3,053"
+    },
+    {
+        "CountryName": "El Salvador",
+        "Total Casses": "8,844",
+        "New Casses": "+278",
+        "Total Deaths": "243 ",
+        "Total Recoverd": "5,289"
+    },
+    {
+        "CountryName": "Malaysia",
+        "Total Casses": "8,683",
+        "New Casses": "+6",
+        "Total Deaths": "121 ",
+        "Total Recoverd": "8,499"
+    },
+    {
+        "CountryName": "Kenya",
+        "Total Casses": "8,528",
+        "New Casses": null,
+        "Total Deaths": "169 ",
+        "Total Recoverd": "2,593"
+    },
+    {
+        "CountryName": "Venezuela",
+        "Total Casses": "8,008",
+        "New Casses": null,
+        "Total Deaths": "75 ",
+        "Total Recoverd": "2,100"
+    },
+    {
+        "CountryName": "Senegal",
+        "Total Casses": "7,657",
+        "New Casses": null,
+        "Total Deaths": "141 ",
+        "Total Recoverd": "5,097"
+    },
+    {
+        "CountryName": "DRC",
+        "Total Casses": "7,432",
+        "New Casses": null,
+        "Total Deaths": "182 ",
+        "Total Recoverd": "3,226"
+    },
+    {
+        "CountryName": "North Macedonia",
+        "Total Casses": "7,406",
+        "New Casses": null,
+        "Total Deaths": "359 ",
+        "Total Recoverd": "3,554"
+    },
+    {
+        "CountryName": "Finland",
+        "Total Casses": "7,273",
+        "New Casses": "+8",
+        "Total Deaths": "329 ",
+        "Total Recoverd": "6,800"
+    },
+    {
+        "CountryName": "Ethiopia",
+        "Total Casses": "6,774",
+        "New Casses": null,
+        "Total Deaths": "120 ",
+        "Total Recoverd": "2,430"
+    },
+    {
+        "CountryName": "Haiti",
+        "Total Casses": "6,486",
+        "New Casses": "+54",
+        "Total Deaths": "123 ",
+        "Total Recoverd": "2,181"
+    },
+    {
+        "CountryName": "Tajikistan",
+        "Total Casses": "6,364",
+        "New Casses": null,
+        "Total Deaths": "54 ",
+        "Total Recoverd": "5,011"
+    },
+    {
+        "CountryName": "Bulgaria",
+        "Total Casses": "6,342",
+        "New Casses": null,
+        "Total Deaths": "259 ",
+        "Total Recoverd": "3,166"
+    },
+    {
+        "CountryName": "Gabon",
+        "Total Casses": "5,871",
+        "New Casses": null,
+        "Total Deaths": "46 ",
+        "Total Recoverd": "2,682"
+    },
+    {
+        "CountryName": "Bosnia and Herzegovina",
+        "Total Casses": "5,869",
+        "New Casses": null,
+        "Total Deaths": "209 ",
+        "Total Recoverd": "2,769"
+    },
+    {
+        "CountryName": "Costa Rica",
+        "Total Casses": "5,836",
+        "New Casses": null,
+        "Total Deaths": "25 ",
+        "Total Recoverd": "1,929"
+    },
+    {
+        "CountryName": "Guinea",
+        "Total Casses": "5,697",
+        "New Casses": null,
+        "Total Deaths": "34 ",
+        "Total Recoverd": "4,577"
+    },
+    {
+        "CountryName": "French Guiana",
+        "Total Casses": "5,459",
+        "New Casses": null,
+        "Total Deaths": "22 ",
+        "Total Recoverd": "2,349"
+    },
+    {
+        "CountryName": "Palestine",
+        "Total Casses": "5,220",
+        "New Casses": "+191",
+        "Total Deaths": "22 ",
+        "Total Recoverd": "525"
+    },
+    {
+        "CountryName": "Mauritania",
+        "Total Casses": "5,087",
+        "New Casses": null,
+        "Total Deaths": "139 ",
+        "Total Recoverd": "1,994"
+    },
+    {
+        "CountryName": "Djibouti",
+        "Total Casses": "4,889",
+        "New Casses": null,
+        "Total Deaths": "55 ",
+        "Total Recoverd": "4,644"
+    },
+    {
+        "CountryName": "Luxembourg",
+        "Total Casses": "4,650",
+        "New Casses": null,
+        "Total Deaths": "110 ",
+        "Total Recoverd": "4,056"
+    },
+    {
+        "CountryName": "Hungary",
+        "Total Casses": "4,220",
+        "New Casses": "+10",
+        "Total Deaths": "591 ",
+        "Total Recoverd": "2,887"
+    },
+    {
+        "CountryName": "CAR",
+        "Total Casses": "4,109",
+        "New Casses": null,
+        "Total Deaths": "52 ",
+        "Total Recoverd": "1,050"
+    },
+    {
+        "CountryName": "Greece",
+        "Total Casses": "3,622",
+        "New Casses": null,
+        "Total Deaths": "193 ",
+        "Total Recoverd": "1,374"
+    },
+    {
+        "CountryName": "Madagascar",
+        "Total Casses": "3,573",
+        "New Casses": null,
+        "Total Deaths": "33 ",
+        "Total Recoverd": "1,761"
+    },
+    {
+        "CountryName": "Croatia",
+        "Total Casses": "3,325",
+        "New Casses": null,
+        "Total Deaths": "114 ",
+        "Total Recoverd": "2,277"
+    },
+    {
+        "CountryName": "Thailand",
+        "Total Casses": "3,202",
+        "New Casses": "+5",
+        "Total Deaths": "58 ",
+        "Total Recoverd": "3,085"
+    },
+    {
+        "CountryName": "Albania",
+        "Total Casses": "3,106",
+        "New Casses": null,
+        "Total Deaths": "83 ",
+        "Total Recoverd": "1,791"
+    },
+    {
+        "CountryName": "Equatorial Guinea",
+        "Total Casses": "3,071",
+        "New Casses": null,
+        "Total Deaths": "51 ",
+        "Total Recoverd": "842"
+    },
+    {
+        "CountryName": "Somalia",
+        "Total Casses": "3,028",
+        "New Casses": null,
+        "Total Deaths": "92 ",
+        "Total Recoverd": "1,147"
+    },
+    {
+        "CountryName": "Nicaragua",
+        "Total Casses": "2,846",
+        "New Casses": null,
+        "Total Deaths": "91 ",
+        "Total Recoverd": "1,993"
+    },
+    {
+        "CountryName": "Mayotte",
+        "Total Casses": "2,688",
+        "New Casses": null,
+        "Total Deaths": "34 ",
+        "Total Recoverd": "2,446"
+    },
+    {
+        "CountryName": "Paraguay",
+        "Total Casses": "2,554",
+        "New Casses": null,
+        "Total Deaths": "20 ",
+        "Total Recoverd": "1,212"
+    },
+    {
+        "CountryName": "Maldives",
+        "Total Casses": "2,517",
+        "New Casses": null,
+        "Total Deaths": "13 ",
+        "Total Recoverd": "2,180"
+    },
+    {
+        "CountryName": "Cuba",
+        "Total Casses": "2,399",
+        "New Casses": null,
+        "Total Deaths": "86 ",
+        "Total Recoverd": "2,242"
+    },
+    {
+        "CountryName": "Mali",
+        "Total Casses": "2,358",
+        "New Casses": null,
+        "Total Deaths": "120 ",
+        "Total Recoverd": "1,597"
+    },
+    {
+        "CountryName": "Sri Lanka",
+        "Total Casses": "2,094",
+        "New Casses": null,
+        "Total Deaths": "11 ",
+        "Total Recoverd": "1,967"
+    },
+    {
+        "CountryName": "South Sudan",
+        "Total Casses": "2,021",
+        "New Casses": null,
+        "Total Deaths": "38 ",
+        "Total Recoverd": "333"
+    },
+    {
+        "CountryName": "Estonia",
+        "Total Casses": "2,011",
+        "New Casses": "+8",
+        "Total Deaths": "69 ",
+        "Total Recoverd": "1,889"
+    },
+    {
+        "CountryName": "Lebanon",
+        "Total Casses": "1,946",
+        "New Casses": null,
+        "Total Deaths": "36 ",
+        "Total Recoverd": "1,368"
+    },
+    {
+        "CountryName": "Zambia",
+        "Total Casses": "1,895",
+        "New Casses": null,
+        "Total Deaths": "42 ",
+        "Total Recoverd": "1,348"
+    },
+    {
+        "CountryName": "Iceland",
+        "Total Casses": "1,880",
+        "New Casses": null,
+        "Total Deaths": "10 ",
+        "Total Recoverd": "1,850"
+    },
+    {
+        "CountryName": "Malawi",
+        "Total Casses": "1,864",
+        "New Casses": null,
+        "Total Deaths": "24 ",
+        "Total Recoverd": "345"
+    },
+    {
+        "CountryName": "Lithuania",
+        "Total Casses": "1,857",
+        "New Casses": "+3",
+        "Total Deaths": "79 ",
+        "Total Recoverd": "1,564"
+    },
+    {
+        "CountryName": "Slovakia",
+        "Total Casses": "1,851",
+        "New Casses": "+53",
+        "Total Deaths": "28 ",
+        "Total Recoverd": "1,477"
+    },
+    {
+        "CountryName": "Congo",
+        "Total Casses": "1,821",
+        "New Casses": null,
+        "Total Deaths": "47 ",
+        "Total Recoverd": "525"
+    },
+    {
+        "CountryName": "Guinea-Bissau",
+        "Total Casses": "1,790",
+        "New Casses": null,
+        "Total Deaths": "25 ",
+        "Total Recoverd": "760"
+    },
+    {
+        "CountryName": "Slovenia",
+        "Total Casses": "1,776",
+        "New Casses": "+13",
+        "Total Deaths": "111 ",
+        "Total Recoverd": "1,429"
+    },
+    {
+        "CountryName": "Sierra Leone",
+        "Total Casses": "1,584",
+        "New Casses": null,
+        "Total Deaths": "63 ",
+        "Total Recoverd": "1,122"
+    },
+    {
+        "CountryName": "Cabo Verde",
+        "Total Casses": "1,542",
+        "New Casses": null,
+        "Total Deaths": "18 ",
+        "Total Recoverd": "730"
+    },
+    {
+        "CountryName": "New Zealand",
+        "Total Casses": "1,540",
+        "New Casses": "+3",
+        "Total Deaths": "22 ",
+        "Total Recoverd": "1,494"
+    },
+    {
+        "CountryName": "Hong Kong",
+        "Total Casses": "1,324",
+        "New Casses": null,
+        "Total Deaths": "7 ",
+        "Total Recoverd": "1,167"
+    },
+    {
+        "CountryName": "Yemen",
+        "Total Casses": "1,318",
+        "New Casses": null,
+        "Total Deaths": "351 ",
+        "Total Recoverd": "595"
+    },
+    {
+        "CountryName": "Libya",
+        "Total Casses": "1,268",
+        "New Casses": null,
+        "Total Deaths": "36 ",
+        "Total Recoverd": "306"
+    },
+    {
+        "CountryName": "Tunisia",
+        "Total Casses": "1,221",
+        "New Casses": null,
+        "Total Deaths": "50 ",
+        "Total Recoverd": "1,050"
+    },
+    {
+        "CountryName": "Benin",
+        "Total Casses": "1,199",
+        "New Casses": null,
+        "Total Deaths": "21 ",
+        "Total Recoverd": "333"
+    },
+    {
+        "CountryName": "Rwanda",
+        "Total Casses": "1,194",
+        "New Casses": null,
+        "Total Deaths": "3 ",
+        "Total Recoverd": "610"
+    },
+    {
+        "CountryName": "Jordan",
+        "Total Casses": "1,169",
+        "New Casses": null,
+        "Total Deaths": "10 ",
+        "Total Recoverd": "977"
+    },
+    {
+        "CountryName": "Latvia",
+        "Total Casses": "1,154",
+        "New Casses": "+13",
+        "Total Deaths": "30 ",
+        "Total Recoverd": "1,019"
+    },
+    {
+        "CountryName": "Eswatini",
+        "Total Casses": "1,138",
+        "New Casses": null,
+        "Total Deaths": "14 ",
+        "Total Recoverd": "588"
+    },
+    {
+        "CountryName": "Niger",
+        "Total Casses": "1,097",
+        "New Casses": null,
+        "Total Deaths": "68 ",
+        "Total Recoverd": "976"
+    },
+    {
+        "CountryName": "Mozambique",
+        "Total Casses": "1,071",
+        "New Casses": null,
+        "Total Deaths": "8 ",
+        "Total Recoverd": "337"
+    },
+    {
+        "CountryName": "Cyprus",
+        "Total Casses": "1,008",
+        "New Casses": null,
+        "Total Deaths": "19 ",
+        "Total Recoverd": "839"
+    },
+    {
+        "CountryName": "Burkina Faso",
+        "Total Casses": "1,003",
+        "New Casses": null,
+        "Total Deaths": "53 ",
+        "Total Recoverd": "861"
+    },
+    {
+        "CountryName": "Uganda",
+        "Total Casses": "1,000",
+        "New Casses": "+23",
+        "Total Deaths": " ",
+        "Total Recoverd": "908"
+    },
+    {
+        "CountryName": "Uruguay",
+        "Total Casses": "974",
+        "New Casses": null,
+        "Total Deaths": "29 ",
+        "Total Recoverd": "871"
+    },
+    {
+        "CountryName": "Georgia",
+        "Total Casses": "968",
+        "New Casses": "+5",
+        "Total Deaths": "15 ",
+        "Total Recoverd": "844"
+    },
+    {
+        "CountryName": "Montenegro",
+        "Total Casses": "960",
+        "New Casses": null,
+        "Total Deaths": "17 ",
+        "Total Recoverd": "320"
+    },
+    {
+        "CountryName": "Liberia",
+        "Total Casses": "926",
+        "New Casses": null,
+        "Total Deaths": "41 ",
+        "Total Recoverd": "395"
+    },
+    {
+        "CountryName": "Zimbabwe",
+        "Total Casses": "885",
+        "New Casses": null,
+        "Total Deaths": "9 ",
+        "Total Recoverd": "206"
+    },
+    {
+        "CountryName": "Chad",
+        "Total Casses": "873",
+        "New Casses": null,
+        "Total Deaths": "74 ",
+        "Total Recoverd": "788"
+    },
+    {
+        "CountryName": "Andorra",
+        "Total Casses": "855",
+        "New Casses": null,
+        "Total Deaths": "52 ",
+        "Total Recoverd": "802"
+    },
+    {
+        "CountryName": "Jamaica",
+        "Total Casses": "751",
+        "New Casses": "+6",
+        "Total Deaths": "10 ",
+        "Total Recoverd": "600"
+    },
+    {
+        "CountryName": "Sao Tome and Principe",
+        "Total Casses": "724",
+        "New Casses": null,
+        "Total Deaths": "13 ",
+        "Total Recoverd": "283"
+    },
+    {
+        "CountryName": null,
+        "Total Casses": "712",
+        "New Casses": null,
+        "Total Deaths": "13 ",
+        "Total Recoverd": "651"
+    },
+    {
+        "CountryName": "San Marino",
+        "Total Casses": "698",
+        "New Casses": null,
+        "Total Deaths": "42 ",
+        "Total Recoverd": "656"
+    },
+    {
+        "CountryName": "Togo",
+        "Total Casses": "695",
+        "New Casses": null,
+        "Total Deaths": "15 ",
+        "Total Recoverd": "475"
+    },
+    {
+        "CountryName": "Malta",
+        "Total Casses": "673",
+        "New Casses": null,
+        "Total Deaths": "9 ",
+        "Total Recoverd": "654"
+    },
+    {
+        "CountryName": "Suriname",
+        "Total Casses": "665",
+        "New Casses": null,
+        "Total Deaths": "17 ",
+        "Total Recoverd": "434"
+    },
+    {
+        "CountryName": "Namibia",
+        "Total Casses": "593",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "25"
+    },
+    {
+        "CountryName": "Channel Islands",
+        "Total Casses": "577",
+        "New Casses": null,
+        "Total Deaths": "47 ",
+        "Total Recoverd": "512"
+    },
+    {
+        "CountryName": "R\u00e9union",
+        "Total Casses": "563",
+        "New Casses": null,
+        "Total Deaths": "3 ",
+        "Total Recoverd": "472"
+    },
+    {
+        "CountryName": "Tanzania",
+        "Total Casses": "509",
+        "New Casses": null,
+        "Total Deaths": "21 ",
+        "Total Recoverd": "183"
+    },
+    {
+        "CountryName": "Taiwan",
+        "Total Casses": "449",
+        "New Casses": null,
+        "Total Deaths": "7 ",
+        "Total Recoverd": "438"
+    },
+    {
+        "CountryName": "Angola",
+        "Total Casses": "386",
+        "New Casses": null,
+        "Total Deaths": "21 ",
+        "Total Recoverd": "117"
+    },
+    {
+        "CountryName": "Syria",
+        "Total Casses": "372",
+        "New Casses": null,
+        "Total Deaths": "14 ",
+        "Total Recoverd": "126"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Total Casses": "369",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "347"
+    },
+    {
+        "CountryName": "Mauritius",
+        "Total Casses": "342",
+        "New Casses": null,
+        "Total Deaths": "10 ",
+        "Total Recoverd": "330"
+    },
+    {
+        "CountryName": "Isle of Man",
+        "Total Casses": "336",
+        "New Casses": null,
+        "Total Deaths": "24 ",
+        "Total Recoverd": "312"
+    },
+    {
+        "CountryName": "Myanmar",
+        "Total Casses": "317",
+        "New Casses": null,
+        "Total Deaths": "6 ",
+        "Total Recoverd": "250"
+    },
+    {
+        "CountryName": "Botswana",
+        "Total Casses": "314",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "31"
+    },
+    {
+        "CountryName": "Comoros",
+        "Total Casses": "313",
+        "New Casses": null,
+        "Total Deaths": "7 ",
+        "Total Recoverd": "272"
+    },
+    {
+        "CountryName": "Guyana",
+        "Total Casses": "284",
+        "New Casses": null,
+        "Total Deaths": "16 ",
+        "Total Recoverd": "125"
+    },
+    {
+        "CountryName": "Martinique",
+        "Total Casses": "249",
+        "New Casses": null,
+        "Total Deaths": "14 ",
+        "Total Recoverd": "98"
+    },
+    {
+        "CountryName": "Mongolia",
+        "Total Casses": "227",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "197"
+    },
+    {
+        "CountryName": "Eritrea",
+        "Total Casses": "215",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "56"
+    },
+    {
+        "CountryName": "Cayman Islands",
+        "Total Casses": "201",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "197"
+    },
+    {
+        "CountryName": "Burundi",
+        "Total Casses": "191",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "118"
+    },
+    {
+        "CountryName": "Faeroe Islands",
+        "Total Casses": "188",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "188"
+    },
+    {
+        "CountryName": "Guadeloupe",
+        "Total Casses": "184",
+        "New Casses": null,
+        "Total Deaths": "14 ",
+        "Total Recoverd": "157"
+    },
+    {
+        "CountryName": "Gibraltar",
+        "Total Casses": "179",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "176"
+    },
+    {
+        "CountryName": "Bermuda",
+        "Total Casses": "149",
+        "New Casses": null,
+        "Total Deaths": "9 ",
+        "Total Recoverd": "137"
+    },
+    {
+        "CountryName": "Brunei ",
+        "Total Casses": "141",
+        "New Casses": null,
+        "Total Deaths": "3 ",
+        "Total Recoverd": "138"
+    },
+    {
+        "CountryName": "Cambodia",
+        "Total Casses": "141",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "131"
+    },
+    {
+        "CountryName": "Trinidad and Tobago",
+        "Total Casses": "133",
+        "New Casses": null,
+        "Total Deaths": "8 ",
+        "Total Recoverd": "117"
+    },
+    {
+        "CountryName": "Monaco",
+        "Total Casses": "108",
+        "New Casses": null,
+        "Total Deaths": "4 ",
+        "Total Recoverd": "95"
+    },
+    {
+        "CountryName": "Bahamas",
+        "Total Casses": "106",
+        "New Casses": "+2",
+        "Total Deaths": "11 ",
+        "Total Recoverd": "89"
+    },
+    {
+        "CountryName": "Aruba",
+        "Total Casses": "105",
+        "New Casses": null,
+        "Total Deaths": "3 ",
+        "Total Recoverd": "98"
+    },
+    {
+        "CountryName": "Barbados",
+        "Total Casses": "98",
+        "New Casses": null,
+        "Total Deaths": "7 ",
+        "Total Recoverd": "90"
+    },
+    {
+        "CountryName": "Lesotho",
+        "Total Casses": "91",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "11"
+    },
+    {
+        "CountryName": "Seychelles",
+        "Total Casses": "91",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "11"
+    },
+    {
+        "CountryName": "Liechtenstein",
+        "Total Casses": "84",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "81"
+    },
+    {
+        "CountryName": "Bhutan",
+        "Total Casses": "80",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "55"
+    },
+    {
+        "CountryName": "Sint Maarten",
+        "Total Casses": "78",
+        "New Casses": null,
+        "Total Deaths": "15 ",
+        "Total Recoverd": "63"
+    },
+    {
+        "CountryName": "Antigua and Barbuda",
+        "Total Casses": "73",
+        "New Casses": "+3",
+        "Total Deaths": "3 ",
+        "Total Recoverd": "57"
+    },
+    {
+        "CountryName": "Gambia",
+        "Total Casses": "63",
+        "New Casses": "+2",
+        "Total Deaths": "3 ",
+        "Total Recoverd": "32"
+    },
+    {
+        "CountryName": "French Polynesia",
+        "Total Casses": "62",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "60"
+    },
+    {
+        "CountryName": "Turks and Caicos",
+        "Total Casses": "55",
+        "New Casses": null,
+        "Total Deaths": "2 ",
+        "Total Recoverd": "11"
+    },
+    {
+        "CountryName": "Macao",
+        "Total Casses": "46",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "45"
+    },
+    {
+        "CountryName": "Saint Martin",
+        "Total Casses": "43",
+        "New Casses": null,
+        "Total Deaths": "3 ",
+        "Total Recoverd": "37"
+    },
+    {
+        "CountryName": "Belize",
+        "Total Casses": "30",
+        "New Casses": null,
+        "Total Deaths": "2 ",
+        "Total Recoverd": "19"
+    },
+    {
+        "CountryName": "St. Vincent Grenadines",
+        "Total Casses": "29",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "29"
+    },
+    {
+        "CountryName": "Timor-Leste",
+        "Total Casses": "24",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "24"
+    },
+    {
+        "CountryName": "Cura\u00e7ao",
+        "Total Casses": "23",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "19"
+    },
+    {
+        "CountryName": "Grenada",
+        "Total Casses": "23",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "23"
+    },
+    {
+        "CountryName": "Saint Lucia",
+        "Total Casses": "22",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "19"
+    },
+    {
+        "CountryName": "Fiji",
+        "Total Casses": "21",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "18"
+    },
+    {
+        "CountryName": "New Caledonia",
+        "Total Casses": "21",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "21"
+    },
+    {
+        "CountryName": "Laos",
+        "Total Casses": "19",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "19"
+    },
+    {
+        "CountryName": "Dominica",
+        "Total Casses": "18",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "18"
+    },
+    {
+        "CountryName": "Saint Kitts and Nevis",
+        "Total Casses": "16",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "15"
+    },
+    {
+        "CountryName": "Falkland Islands",
+        "Total Casses": "13",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "13"
+    },
+    {
+        "CountryName": "Greenland",
+        "Total Casses": "13",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "13"
+    },
+    {
+        "CountryName": "Vatican City",
+        "Total Casses": "12",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "12"
+    },
+    {
+        "CountryName": "Montserrat",
+        "Total Casses": "11",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "10"
+    },
+    {
+        "CountryName": "Papua New Guinea",
+        "Total Casses": "11",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "8"
+    },
+    {
+        "CountryName": "Western Sahara",
+        "Total Casses": "10",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "8"
+    },
+    {
+        "CountryName": null,
+        "Total Casses": "9",
+        "New Casses": null,
+        "Total Deaths": "2 ",
+        "Total Recoverd": null
+    },
+    {
+        "CountryName": "British Virgin Islands",
+        "Total Casses": "8",
+        "New Casses": null,
+        "Total Deaths": "1 ",
+        "Total Recoverd": "7"
+    },
+    {
+        "CountryName": "Caribbean Netherlands",
+        "Total Casses": "7",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "7"
+    },
+    {
+        "CountryName": "St. Barth",
+        "Total Casses": "6",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "6"
+    },
+    {
+        "CountryName": "Anguilla",
+        "Total Casses": "3",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "3"
+    },
+    {
+        "CountryName": "Saint Pierre Miquelon",
+        "Total Casses": "1",
+        "New Casses": null,
+        "Total Deaths": " ",
+        "Total Recoverd": "1"
+    },
+    {
+        "CountryName": "China",
+        "Total Casses": "83,581",
+        "New Casses": "+9",
+        "Total Deaths": "4,634 ",
+        "Total Recoverd": "78,590"
+    }
+]
